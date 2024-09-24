@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-5-hashtable/HashTablePerfomanceTesting/HashTablePerfomanceTesting.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-5-hashtable/HashTablePerfomanceTesting/HashTablePerfomanceTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-5-hashtable/HashTableTextKeys/HashTableTextKeys.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-5-hashtable/HashTableTextKeys/HashTableTextKeys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-1-stockexchange/assignment-1-stockexchange.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-1-stockexchange/assignment-1-stockexchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-1-variables_data_types_and_expressions/assignment-1-variables_data_types_and_expressions.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-1-variables_data_types_and_expressions/assignment-1-variables_data_types_and_expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-10-table_lists/assignment-10-table_lists.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-10-table_lists/assignment-10-table_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-2-control_structure_ selection/assignment-2-control_structure_ selection.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-2-control_structure_ selection/assignment-2-control_structure_ selection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-2-recursivemultiplication/assignment-2-recursivemultiplication.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-2-recursivemultiplication/assignment-2-recursivemultiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-3-advancedsorting/assignment-3-advancedsorting.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-3-advancedsorting/assignment-3-advancedsorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-3-the_control_structure_loop/assignment-3-the_control_structure_loop.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-3-the_control_structure_loop/assignment-3-the_control_structure_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-4-josephusproblem/assignment-4-josephusproblem.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-4-josephusproblem/assignment-4-josephusproblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-4-oop_classes/assignment-4-oop_classes.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-4-oop_classes/assignment-4-oop_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-5-classes_as_building_blocks/assignment-5-classes_as_building_blocks.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-5-classes_as_building_blocks/assignment-5-classes_as_building_blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-6-tables_of_primitive_data_types/assignment-6-tables_of_primitive_data_types.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-6-tables_of_primitive_data_types/assignment-6-tables_of_primitive_data_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-6-unweightedgraphs/assignment-6-unweightedgraphs.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-6-unweightedgraphs/assignment-6-unweightedgraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-7-java_api/assignment-7-java_api.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-7-java_api/assignment-7-java_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-7-weightedgraphs/assignment-7-weightedgraphs.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-7-weightedgraphs/assignment-7-weightedgraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-8-compression_and_decompression/assignment-8-compression_and_decompression.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-8-compression_and_decompression/assignment-8-compression_and_decompression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-8-cooperation_between_objects/assignment-8-cooperation_between_objects.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-8-cooperation_between_objects/assignment-8-cooperation_between_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-9-mappingalgorithms/assignment-9-mappingalgorithms.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt2101/assignment-9-mappingalgorithms/assignment-9-mappingalgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-9-tables_of_objects/assignment-9-tables_of_objects.iml" filepath="$PROJECT_DIR$/edu-ntnu-idatt1001/assignment-9-tables_of_objects/assignment-9-tables_of_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ntnu_bidata.iml" filepath="$PROJECT_DIR$/.idea/ntnu_bidata.iml" />
+    </modules>
+  </component>
+</project>
